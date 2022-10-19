@@ -1,0 +1,9 @@
+﻿[
+   {
+   "ClientId":"1",
+   "ClientName":"Peppe Poppo",
+   "ClientEmail":"peppepoppo@gmail.com"
+
+    }
+
+]
